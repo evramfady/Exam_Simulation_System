@@ -1,0 +1,139 @@
+Which of the following is a correct comment in C/C++?
+/* Comment */
+// Comment
+# Comment
+Both A and B
+4
+
+Which keyword is used to allocate memory dynamically in C++?
+malloc
+calloc
+new
+alloc
+3
+
+What is the size of an int on most 64-bit systems?
+2 bytes
+4 bytes
+8 bytes
+Depends on the compiler
+2
+
+Which of the following is used to define a constant in C++?
+constant
+fixed
+const
+immutable
+3
+
+What is the output of: printf("%d", 10 + 20);?
+10
+20
+30
+1020
+3
+
+Which of these is not a valid variable name in C++?
+_value
+int
+val_1
+totalSum
+2
+
+What will sizeof(char) return?
+1
+2
+4
+Depends on the system
+1
+
+Which of these is a correct function declaration in C++?
+function int()
+int function()
+declare int function()
+func int()
+2
+
+What does the keyword return do in a function?
+Exits the program
+Ends a loop
+Returns a value from a function
+None of the above
+3
+
+Which of the following is NOT a loop in C/C++?
+for
+while
+repeat
+do-while
+3
+
+Which file extension is used for C++ source files?
+.c
+.cpp
+.cp
+.h
+2
+
+Which header file is required to use `printf()` in C?
+iostream
+stdio.h
+conio.h
+stdlib.h
+2
+
+What is the output of: `int x = 5; cout << x++ << endl;`?
+6
+5
+Error
+Undefined
+2
+
+Which operator is used to access members of a class via a pointer?
+.
+::
+->
+#
+3
+
+Which of the following is a logical operator in C++?
+&&
+++
+::
+sizeof
+1
+
+What is a pointer?
+A keyword
+A memory address
+An integer
+A loop
+2
+
+What does `new` do in C++?
+Creates a class
+Deletes memory
+Allocates memory dynamically
+Increments a pointer
+3
+
+Which function releases memory allocated using `new`?
+delete
+remove
+free
+clear
+1
+
+Which is not a valid access specifier in C++?
+public
+private
+internal
+protected
+3
+
+Which of the following denotes a preprocessor directive?
+#
+@
+!
+$
+1
